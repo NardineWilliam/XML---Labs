@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type=“text/css” href=“styles.css”?>
+<employees>
+    <employee>
+        <name>Vera Holland</name>
+        <phones>
+            <phone type="home">456789</phone>
+            <phone type="work">123456</phone>
+            <phone type="mobile">487965</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>Main Street</street>
+                <buildingNumber>15</buildingNumber>
+                <region>East</region>
+                <city>New York</city>
+                <country>US</country>
+            </address>
+            <address>
+                <street>First Street</street>
+                <buildingNumber>97</buildingNumber>
+                <region>West</region>
+                <city>Chicago</city>
+                <country>US</country>
+            </address>
+        </addresses>
+        <email>vera.holland@gmail.com</email>
+    </employee>
+    <employee>
+        <name>Mavis Patrick</name>
+        <phones>
+            <phone type="home">541276</phone>
+            <phone type="work">145869</phone>
+            <phone type="mobile">745265</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>Second Street</street>
+                <buildingNumber>25</buildingNumber>
+                <region>North</region>
+                <city>London</city>
+                <country>UK</country>
+            </address>
+        </addresses>
+        <email>mavis.patrick@yahoo.com</email>
+    </employee>
+    <employee>
+        <name>Beata Potter</name>
+        <phones>
+            <phone type="home">426598</phone>
+            <phone type="work">321957</phone>
+            <phone type="mobile">613487</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>Third Street</street>
+                <buildingNumber>87</buildingNumber>
+                <region>South</region>
+                <city>Dallas</city>
+                <country>US</country>
+            </address>
+             <address>
+                <street>Fifth Street</street>
+                <buildingNumber>14</buildingNumber>
+                <region>West</region>
+                <city>Dallas</city>
+                <country>US</country>
+            </address>
+        </addresses>
+        <email>beata.potter@gmail.com</email>
+    </employee>
+</employees>

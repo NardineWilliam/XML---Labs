@@ -1,0 +1,35 @@
+location,
+librarian,
+book title,
+part title,
+chapter title {
+  font-weight: bold;
+}
+
+description,
+preface,
+chapter summary {
+  font-style: italic;
+}
+
+isbn,
+author,
+paragraph {
+  color: #434343;
+}
+
+location,
+librarian {
+  color: #1c1b1b;
+}
+
+location,
+description,
+librarian,
+book,
+part,
+chapter,
+section,
+paragraph {
+  margin-bottom: 10px;
+}

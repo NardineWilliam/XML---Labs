@@ -1,0 +1,30 @@
+.employee {
+  border: 1px solid #b6b4b4;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.employee .name {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.employee .phones {
+  margin-top: 5px;
+}
+
+.employee .phone {
+  margin-right: 10px;
+}
+
+.employee .addresses {
+  margin-top: 5px;
+}
+
+.employee .address {
+  margin-bottom: 5px;
+}
+
+.employee .email {
+  margin-top: 5px;
+}
